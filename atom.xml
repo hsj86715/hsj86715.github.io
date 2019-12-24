@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hsj86715.github.io/</id>
     <title>Sujohn Hu</title>
-    <updated>2019-12-24T07:57:18.189Z</updated>
+    <updated>2019-12-24T07:59:34.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hsj86715.github.io/"/>
     <link rel="self" href="https://hsj86715.github.io//atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://hsj86715.github.io//images/avatar.png</logo>
     <icon>https://hsj86715.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Sujohn Hu</rights>
+    <entry>
+        <title type="html"><![CDATA[Gridea Demo]]></title>
+        <id>https://hsj86715.github.io//post/gridea-demo</id>
+        <link href="https://hsj86715.github.io//post/gridea-demo">
+        </link>
+        <updated>2019-12-24T07:57:42.000Z</updated>
+        <content type="html"><![CDATA[<p>aaa</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://hsj86715.github.io//post/hello-gridea</id>
